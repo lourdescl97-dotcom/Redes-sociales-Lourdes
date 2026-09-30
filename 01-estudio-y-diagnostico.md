@@ -1,210 +1,202 @@
 # 1. Estudio y diagnóstico
 
-> **Investigación actualizada a septiembre de 2026.** Asumí **Chile** como mercado (datos de redes, comisiones, impuestos y ley de datos). Si trabajas en otro país, se adaptan los datos locales; la estrategia de contenido funciona igual. Las fuentes están al final del documento.
+> **Investigación actualizada a septiembre de 2026 para Alicante (España).** Incluye algoritmos de Instagram y TikTok, uso de redes en España, mercado inmobiliario de Alicante, compradores extranjeros, costes de vender y normativa. Fuentes al final del documento.
 >
-> **Ojo con las cifras:** varias estadísticas de la industria vienen de blogs de marketing, no de las plataformas. Úsalas como orientación, no como verdad absoluta. Las que confirmó directamente Instagram/TikTok están marcadas con ✅.
+> **Ojo con las cifras:** varias estadísticas vienen de blogs de marketing, no de las plataformas. Úsalas como orientación. Las que confirmó directamente Instagram/TikTok/Meta están marcadas con ✅. Los datos fiscales y legales cámbialos por los vigentes antes de publicarlos y consúltalos con un asesor.
+>
+> Para el análisis detallado de **qué Reels se vuelven virales**, ve al [documento 8](08-reels-virales.md).
 
 ---
 
-## 1. Hallazgos clave de la investigación (resumen)
+## 1. Hallazgos clave (resumen)
 
-1. ✅ **Instagram premia 3 señales por sobre todo: tiempo de visualización, "me gusta" y envíos por DM.** Adam Mosseri (jefe de Instagram) explicó que los "me gusta" pesan un poco más con tus seguidores y **los envíos pesan más para llegar a gente que no te sigue**. → Para crecer, tus videos tienen que dar ganas de *mandárselos a alguien*.
-2. ✅ **Instagram limita a 5 hashtags por publicación** (desde diciembre 2025). El descubrimiento se movió al **texto de la descripción, lo que dices en voz alta, el texto en pantalla y el primer cuadro del video**. → Escribe descripciones con palabras clave ("vender departamento en Ñuñoa") en vez de hashtags masivos.
-3. ✅ **Reels de prueba (Trial Reels):** puedes publicar un Reel que se muestra *solo a no seguidores* para testear ideas. Lo decisivo son las primeras 72 horas. (Suele habilitarse desde ~1.000 seguidores y cuenta profesional.)
-4. **Contenido original > reposteos.** Instagram declaró que prioriza contenido original; reportes de la industria indican que las cuentas que repostean mucho contenido ajeno pierden distribución. → Graba tú; no subas videos de otros ni con marca de agua de TikTok.
-5. ✅ **TikTok funciona como buscador.** La herramienta **Creator Search Insights** (disponible en Chile) muestra qué busca la gente y qué búsquedas tienen poco contenido. → Es tu fuente n.º 1 de ideas.
-6. **En TikTok, la retención manda:** si no enganchas en ~3 segundos, la gente sigue de largo. Reportes de la industria señalan que los videos que se ven completos en alta proporción son los que salen a más gente, y que el algoritmo necesita **15–40 videos** para entender a qué audiencia mostrarte. → Constancia de 3–5 videos/semana mínimo.
-7. **Los carruseles de fotos en TikTok (Photo Mode) están recibiendo mucho alcance en 2026** y generan muchos guardados. → Úsalos para "antes/después", "5 errores", "qué compras con X".
-8. **Chile es un mercado muy social:** ~16,2 millones de personas activas en redes (~82% de la población, DataReportal Digital 2026). Instagram es transversal a todas las edades; TikTok es el de mayor crecimiento.
-9. **Caso chileno que valida la estrategia:** María Jesús Macchiavello (La Porta Propiedades), ex profesora convertida en corredora viral: ~110 mil seguidores en TikTok, **el 90% de sus ventas vienen de TikTok**, y vendió una propiedad de más de $1.000 millones a un cliente que la conoció porque **su hijo vio un video**. Su fórmula: humor, cercanía y personalidad dentro de las propiedades. → Confirma el "avatar puente" (hijos de los dueños) y que la personalidad vende más que el aviso.
-10. **Conversión por DM automatizado:** el mecanismo "comenta PALABRA y te envío X" (con herramientas como ManyChat, conectadas a la API oficial de Meta) es hoy la vía más usada por agentes inmobiliarios para convertir views en contactos.
+### Plataformas
+1. ✅ **Instagram premia sobre todo el tiempo de visualización, los "me gusta" y los envíos por DM.** Según Adam Mosseri, los envíos pesan más para llegar a gente que no te sigue. → Haz vídeos que den ganas de *mandárselos a alguien*.
+2. ✅ **Instagram limita a 5 hashtags por publicación** (desde diciembre de 2025). El descubrimiento está en el texto de la descripción, lo que dices, el texto en pantalla y el primer fotograma. → Palabras clave ("vender piso en Alicante") en vez de hashtags masivos.
+3. ✅ **Reels de prueba (Trial Reels):** publicas un Reel que solo ven no seguidores para probar ideas. Lo decisivo son las primeras 72 horas (suele habilitarse desde ~1.000 seguidores).
+4. ✅ **Traducción y doblaje con IA en Instagram:** Meta traduce y dobla tus Reels con tu propia voz y sincroniza los labios (inglés, español, francés, alemán, entre otros). → **Clave en Alicante**, donde casi la mitad de los compradores son extranjeros.
+5. ✅ **TikTok funciona como buscador**, con la herramienta Creator Search Insights (qué busca la gente y qué tiene poco contenido).
+6. **En España, TikTok da más alcance y Reels más relación:** los vídeos de TikTok logran de media un 239% más visualizaciones que los Reels, y el 96% del alcance se concentra en los 10 primeros días de la publicación (Metricool 2026, casi 40 millones de publicaciones analizadas).
+7. **Uso de redes en España:** el 86% de los internautas de 12 a 75 años usa redes (33,1 millones de personas). Los menores de 25 prefieren TikTok; los mayores, Instagram y YouTube. El entretenimiento es el motivo n.º 1 de uso (97%) (IAB Spain, Estudio de Redes Sociales 2026). → Tu público vendedor (35–65) está sobre todo en **Instagram**; sus hijos, en **TikTok**.
+
+### Mercado de Alicante
+8. **Alicante es la provincia de España con más compra extranjera:** en torno al **45% de las compraventas** en 2026. Nacionalidades principales: **neerlandeses, británicos, belgas y polacos**. Los no residentes gastan de media un 60% más.
+9. **Precios en máximos:** Alicante capital llegó a ~2.720 €/m² en agosto de 2026 (idealista), con enormes diferencias entre barrios: Playa de San Juan-El Cabo ~3.860 €/m², Centro ~3.650 €/m², Benalúa ~2.430 €/m², y zonas como Virgen del Remedio ~1.100–1.300 €/m².
+10. **Casos que validan la estrategia:** "La Inmobiliaria de TikTok" (Asturias, casi 400.000 seguidores) se hizo viral con cercanía y casas baratas; en Chile, una agente atribuye el 90% de sus ventas a TikTok, incluida una casa cuyo comprador la descubrió porque su hijo vio un vídeo. En Madrid, en cambio, muchos agentes se han hecho virales **por indignación** con precios desorbitados: alcance sí, confianza no (ver doc 8).
 
 ---
 
-## 2. Cómo funcionan hoy Instagram y TikTok (lo que importa para ti)
+## 2. Cómo funcionan hoy Instagram y TikTok
 
-Ambas plataformas ya no muestran tu contenido principalmente a tus seguidores: lo muestran a **quien probablemente le interese**, aunque no te siga. Eso es una gran noticia para reactivar una cuenta: **no importa cuántos seguidores tengas hoy, cada video tiene una oportunidad nueva.**
+Ambas plataformas muestran tu contenido a **quien probablemente le interese**, aunque no te siga. Para reactivar una cuenta es una gran noticia: **cada vídeo tiene una oportunidad nueva**, tengas los seguidores que tengas.
 
 ### Señales que más pesan
 
 | Señal | Qué significa | Cómo la trabajas |
 |-------|---------------|------------------|
-| **Tiempo de visualización y repeticiones** | Cuánto ven y si lo vuelven a ver | Gancho en 1–2 s, cortes rápidos, nada de relleno. Al comienzo, videos de 15–45 s |
-| **Envíos por DM / compartidos** | La señal más fuerte para llegar a no seguidores en IG | Contenido "para mandarle a alguien": "mándaselo a quien está por vender" |
-| **Guardados** | "Esto me sirve para después" | Tips concretos, checklists, carruseles con números |
-| **Comentarios** | Conversación | Preguntas abiertas, opiniones con postura, "comenta VENDER y te mando…" |
-| **Búsqueda (SEO)** | TikTok e IG funcionan como buscadores | Decir en voz alta + escribir en pantalla + descripción: "vender casa en [comuna]" |
-| **Originalidad y constancia** | Cuentas activas y originales se distribuyen mejor | Publicar regularmente, contenido propio |
+| **Tiempo de visualización y repeticiones** | Cuánto ven y si lo vuelven a ver | Gancho en 1–2 s, cortes rápidos, sin relleno. Al principio, vídeos de 15–45 s |
+| **Envíos por DM / compartidos** | La señal más fuerte para llegar a no seguidores en IG | "Mándaselo a quien está vendiendo su piso" |
+| **Guardados** | "Esto me sirve para después" | Consejos concretos, listas, carruseles con cifras |
+| **Comentarios** | Conversación | Preguntas abiertas, "adivina el precio", "comenta VENDER y te mando…" |
+| **Búsqueda (SEO)** | TikTok e IG funcionan como buscadores | Decir + escribir en pantalla + descripción: "vender piso en Playa de San Juan" |
+| **Originalidad y constancia** | Cuentas activas y originales se distribuyen mejor | Contenido propio, sin marca de agua, publicado con regularidad |
 
-### Diferencias clave entre plataformas
+### Diferencias clave
 
 | | **TikTok** | **Instagram** |
 |---|-----------|---------------|
-| Qué premia | Entretenimiento, autenticidad, opinión, búsqueda | Valor + relación con la comunidad + envíos |
-| Rol en tu estrategia | **Máquina de alcance** (views, descubrimiento) | **Máquina de confianza y conversión** (historias, DMs, perfil) |
-| Formatos | Video vertical, carrusel de fotos, lives | Reels, carruseles, historias, lives, canal de difusión |
-| Herramienta útil | Creator Search Insights (ideas por búsquedas) | Reels de prueba (testear con no seguidores) |
+| Qué premia | Entretenimiento, autenticidad, opinión, búsqueda | Valor + comunidad + envíos |
+| Tu uso | **Máquina de alcance** | **Máquina de confianza y contacto** (historias, DM, perfil) |
+| Público en España | Más joven (hijos de propietarios, primeros compradores) | Transversal; tu vendedor de 35–65 años |
+| Herramienta útil | Creator Search Insights | Reels de prueba + traducción con IA |
 | Hashtags | 3–5 específicos + palabras clave | Máximo 5 (límite de la plataforma) |
 
-**Conclusión:** grabas una vez, publicas en ambas. TikTok te trae gente nueva; Instagram es donde esa gente te "stalkea", ve tus historias, confía y te escribe.
+**Conclusión:** grabas una vez, publicas en ambas. TikTok te trae gente nueva; Instagram es donde te "cotillean", ven tus historias, confían y te escriben.
 
 ---
 
-## 3. Contexto del mercado (Chile, 2026) → temas de contenido
+## 3. Contexto de mercado (Alicante, 2026) → temas de contenido
 
-La realidad del mercado es combustible para contenido: la gente quiere saber "¿es buen momento para vender/comprar?".
-
-| Dato del mercado (2026, según fuentes del rubro) | Cómo convertirlo en contenido |
+| Dato (2026, según fuentes del sector) | Cómo convertirlo en contenido |
 |---|---|
-| Tasas hipotecarias bajaron (reportes de ~4% en algunos bancos, el nivel más bajo desde 2021) | "Bajaron las tasas: ¿qué significa si quieres VENDER tu casa?" (más compradores con crédito aprobado) |
-| Ventas de viviendas proyectadas al alza (+8% a +14% vs 2025 según región/segmento) | "¿Es buen momento para vender? Mi opinión honesta" |
-| Precios de compraventa estables en Santiago; arriendos se estabilizaron | "Si tu propiedad lleva meses publicada, el problema no es el mercado: es esto" |
-| Comisión habitual: **2% + IVA** por parte, libre y negociable (no la fija la ley) | "¿Cuánto cobra un corredor y qué DEBERÍA incluir?" (transparencia = confianza) |
-| Exención de ganancia de capital de hasta **8.000 UF** acumuladas en la vida, con requisitos (persona natural, adquirida después de 2004, no entre relacionados, etc.) | "¿Pagas impuesto si vendes tu casa? Te lo explico en 40 segundos" (siempre con "confírmalo con tu contador") |
-| Nueva Ley de Datos Personales (Ley 21.719) rige desde el **1 de diciembre de 2026** | Aplica a TUS formularios de captación (ver doc 6 y doc 7) |
+| ~45% de compradores extranjeros (neerlandeses, británicos, belgas, polacos) | Vídeos con traducción/doblaje al inglés; "5 errores de los extranjeros al comprar en España" |
+| Precio récord (~2.720 €/m² en la capital) y diferencias de hasta 3 veces entre barrios | "Qué te compras con 200.000 € en 3 barrios de Alicante" |
+| Comisión inmobiliaria libre: lo habitual en España está entre el 3% y el 7% + 21% de IVA (a menudo 4–5%) | "¿Cuánto cobra una inmobiliaria y qué DEBERÍA incluir?" |
+| Al vender se paga **IRPF por la ganancia patrimonial** (tramos del 19% al 28%) y **plusvalía municipal**; hay exenciones (p. ej. mayores de 65 que venden su vivienda habitual, o reinversión en vivienda habitual) | "¿Cuánto pagas a Hacienda al vender tu piso? Te lo explico fácil" (siempre con "consúltalo con tu asesor") |
+| **Etiqueta energética obligatoria en todo anuncio**, también en redes (RD 390/2021); multa de 300–600 € por no ponerla | "No anuncies tu piso sin esto" + **aplícalo en tus propios vídeos de viviendas** |
+| Moratoria de licencias de vivienda turística en edificios residenciales de Alicante (desde diciembre de 2024) y nueva regulación municipal | "¿Puedo alquilar a turistas si compro en Alicante?" (muy buscado por inversores y extranjeros) |
+| Estafas virales con pisos de alquiler falsos en TikTok | "Cómo detectar un anuncio falso" → confianza + compartidos |
+| Alicante, 3.ª mejor ciudad del mundo para expatriados (InterNations 2024) | "Por qué todo el mundo se quiere mudar a Alicante" |
 
-> ⚠️ Temas tributarios y legales: explica lo básico y siempre deriva a un contador/abogado. Esto *aumenta* la confianza, no la reduce.
+> ⚠️ Temas fiscales y legales: explica lo básico y deriva siempre a un asesor fiscal, gestor o abogado. Eso *aumenta* la confianza.
 
 ---
 
-## 4. Qué funciona en el nicho inmobiliario (patrones de cuentas que crecen)
+## 4. Qué funciona en el nicho inmobiliario
 
-### Formatos ganadores
-1. **Tour con personalidad y opinión** — no "aquí está la cocina", sino "lo que NADIE te dice de este departamento" / "¿vale lo que cuesta? Mi opinión honesta".
-2. **"¿Qué compras con X en [comuna]?"** — comparaciones de precio. Altísimo alcance: todos tienen curiosidad por los precios.
-3. **Errores y mitos** — "3 errores que te hacen perder plata al vender tu casa". Atrae exactamente al vendedor.
-4. **Detrás de escena** — un día conmigo, una firma, una negociación (sin datos privados), la entrega de llaves.
-5. **Reacciones / stitch** — reaccionar a avisos con precios absurdos, fotos malas de portales, consejos erróneos.
-6. **Historias de clientes (casos)** — "Esta familia llevaba 8 meses sin vender. Cambiamos 3 cosas y se vendió en 21 días".
-7. **Explicaciones simples de temas complejos** — crédito hipotecario, gastos de venta, impuestos, herencias (posesión efectiva), tasación.
-8. **Contenido de barrio/comuna** — "3 razones por las que todos se quieren ir a vivir a [barrio]". Te posiciona como la referente local.
-9. **Humor y tendencias aplicadas al rubro** — la fórmula del caso La Porta: bailar/actuar una tendencia dentro de una propiedad, con remate inmobiliario.
+El ranking completo de formatos virales, con ejemplos, está en el [doc 8](08-reels-virales.md). En resumen:
 
-### Lo que NO funciona
-- Solo fotos de propiedades con "¡Se vende! Hermoso depto 3D2B, consultas al DM".
-- Flyers con logos, precios y mucho texto.
-- Videos sin cara ni voz, recorriendo la propiedad con música genérica.
+**Funciona:** adivina el precio · "qué te compras con X €" · revelación ("espera a ver las vistas") · opinión honesta · humor del oficio · viviendas sorprendentes · errores al vender · antes/después · historias de clientes · vida en Alicante.
+
+**No funciona (o te perjudica):**
+- Solo fotos de pisos con "¡Se vende! Precioso piso 3 hab., info por privado".
+- Carteles con logos, precios y mucho texto.
+- Vídeos sin cara ni voz con música genérica.
 - Publicar 10 veces en una semana y desaparecer un mes.
-- Reposteos de contenido ajeno o videos con marca de agua de otra app.
-- Hablarle "a todos".
+- Reposteos o vídeos con marca de agua de otra app.
+- **Viralidad por indignación** (presumir de precios abusivos en plena crisis de vivienda).
 
 ---
 
-## 5. Oportunidad estratégica: el vendedor
+## 5. Oportunidad estratégica: dos públicos que casi nadie trabaja bien
 
-La mayoría del contenido inmobiliario le habla al **comprador**. Pero el corretaje depende de **captar propiedades**.
+1. **El propietario que quiere vender** (captación). La mayoría del contenido habla al comprador; tú te especializas en ayudar a **vender bien**.
+   > "Si vas a vender tu piso en Alicante, te explico cómo hacerlo bien, sin estrés y al mejor precio posible."
+2. **El comprador y el vendedor extranjero.** Casi la mitad del mercado, y la mayoría de agentes locales no hace contenido pensado para ellos. Con la traducción automática de Instagram y subtítulos en inglés, puedes hablarles sin cambiar de cuenta.
 
-**Tu diferenciación:** ser la persona que más ayuda a los **dueños** a vender bien.
-
-> "Si vas a vender tu propiedad, yo te explico cómo hacerlo bien, sin estrés y al mejor precio posible."
-
-Búsquedas típicas de dueños (valídalas en Creator Search Insights y en el buscador de TikTok/IG): cuánto vale mi propiedad, cuánto se demora en venderse, cuánto cobra un corredor, gastos de vender, vender con crédito hipotecario vigente, vender una herencia, conviene arreglar antes de vender, estafas al vender, vender con arrendatario adentro, impuesto al vender.
+Búsquedas típicas de propietarios (valídalas en Creator Search Insights y en el buscador de TikTok/IG): cuánto vale mi piso, cuánto tarda en venderse, cuánto cobra una inmobiliaria, impuestos al vender, vender con hipoteca, vender una herencia, vender con inquilino, ¿reformo antes de vender?, certificado energético, vender siendo no residente.
 
 ---
 
 ## 6. Auditoría de tus cuentas actuales
 
-Completa esta tabla (30 min). Es tu "foto de partida". También está en [plantillas/registro-metricas.csv](plantillas/registro-metricas.csv).
-
-### Datos base (día 0)
+Completa esta tabla (30 min). Es tu "foto de partida". También en [plantillas/metricas-semana-0.md](plantillas/metricas-semana-0.md).
 
 | Métrica | Instagram | TikTok |
 |---------|-----------|--------|
 | Seguidores | | |
 | Publicaciones totales | | |
-| Fecha de última publicación | | |
-| Alcance / views promedio últimos 30 días | | |
-| Views promedio de los últimos 10 videos | | |
-| Mejor publicación histórica (link + views) | | |
-| % seguidores de tu ciudad/país | | |
+| Fecha de la última publicación | | |
+| Alcance / visualizaciones medias últimos 30 días | | |
+| Visualizaciones medias de los últimos 10 vídeos | | |
+| Mejor publicación histórica (enlace + visualizaciones) | | |
+| % de seguidores de Alicante / España / otros países | | |
 | Rango de edad principal | | |
 | Consultas de clientes al mes desde redes | | |
 
 ### Checklist de perfil (✅ / ❌)
-
 - [ ] Foto de perfil: primer plano de tu cara, sonriendo, fondo limpio, buena luz.
-- [ ] Nombre visible con palabra clave: "Lourdes | Propiedades [Comuna/Ciudad]" (el campo nombre es buscable).
+- [ ] Nombre visible con palabra clave: "Lourdes | Inmobiliaria Alicante" (el campo nombre es buscable).
 - [ ] Usuario fácil de escribir, igual en IG y TikTok.
-- [ ] Bio dice en 1 línea a quién ayudas y cómo.
-- [ ] Llamado a la acción claro + link (WhatsApp o página con opciones).
+- [ ] La bio dice en 1 línea a quién ayudas y cómo (y que hablas inglés, si es así).
+- [ ] Llamada a la acción clara + enlace (WhatsApp o página con opciones).
 - [ ] Historias destacadas organizadas y con portadas coherentes.
 - [ ] Las últimas 9 publicaciones representan quién eres hoy.
-- [ ] Cuenta profesional/de creador activada.
+- [ ] Cuenta profesional activada.
 - [ ] Botón de contacto (WhatsApp/correo) configurado.
+- [ ] Número de inscripción en el Registro de Agentes de Intermediación Inmobiliaria de la Comunitat Valenciana visible (en la web/enlace de la bio). Además de ser un requisito profesional, da confianza.
 
 ### Análisis de tu contenido anterior
 Revisa tus últimas 20–30 publicaciones:
 1. ¿Cuáles 3 tuvieron más alcance? ¿Qué tienen en común (tema, formato, aparecías tú)?
 2. ¿Cuáles generaron consultas reales?
-3. ¿Qué % eran propiedades en venta vs. contenido de valor?
+3. ¿Qué % eran viviendas en venta y qué % contenido de valor?
 4. ¿Aparece tu cara/voz en la mayoría?
-
-> **Hipótesis habitual:** las publicaciones con tu cara y opinión rinden varias veces más que las de propiedades sin ti. Verifícalo con tus datos.
 
 ---
 
 ## 7. Análisis de competencia y referentes
 
-Elige **5 cuentas**: 2 corredores/as de tu zona (competencia directa), 2 referentes inmobiliarios grandes en español (por ejemplo, La Porta Propiedades en TikTok), 1 referente de otro nicho que te guste cómo comunica.
-
-Para encontrarlas: busca "corredora de propiedades [ciudad]", "vender casa [comuna]", "propiedades Chile", "bienes raíces" y filtra por videos con más views.
+Elige **5 cuentas**: 2 agentes de Alicante (competencia directa), 1 cuenta de la Costa Blanca orientada a extranjeros, 1 referente viral en España (p. ej. "La Inmobiliaria de TikTok") y 1 referente de otro nicho cuya forma de comunicar te guste. Método de búsqueda en el [doc 8, sección 7](08-reels-virales.md#7-tu-laboratorio-viral-cómo-encontrar-tú-mismao-los-reels-que-funcionan-cada-semana).
 
 | Pregunta | Cuenta 1 | Cuenta 2 | Cuenta 3 | Cuenta 4 | Cuenta 5 |
 |----------|----------|----------|----------|----------|----------|
 | Usuario y seguidores | | | | | |
 | ¿Cada cuánto publica? | | | | | |
-| Sus 3 videos con más views (tema) | | | | | |
+| Sus 3 vídeos con más visualizaciones (tema) | | | | | |
 | ¿Qué ganchos usa? | | | | | |
-| ¿Cómo es su estética? | | | | | |
+| ¿En qué idioma(s) publica? | | | | | |
 | ¿Cómo pide el contacto (CTA)? | | | | | |
 | ¿Qué hace mejor que nadie? | | | | | |
 | ¿Qué NO hace que yo podría hacer? | | | | | |
 
-**La última fila es la más importante:** ahí está tu espacio de diferenciación.
+**La última fila es la más importante:** ahí está tu hueco.
 
 ---
 
-## 8. FODA de partida (a validar contigo)
+## 8. DAFO de partida (a validar contigo)
 
 | **Fortalezas** | **Oportunidades** |
 |---|---|
-| Conocimiento real del mercado y de cierres | Pocas cuentas locales hacen contenido de calidad para *vendedores* |
-| Historias reales de clientes | Los algoritmos distribuyen contenido de cuentas pequeñas si retiene |
-| Cercanía / trato personal | Búsquedas locales en TikTok con poca competencia en video |
-| | Mercado en recuperación (tasas bajas) = tema de conversación |
+| Conocimiento real del mercado local y de operaciones cerradas | ~45% de compradores extranjeros y poca competencia con contenido pensado para ellos |
+| Historias reales de clientes | Traducción/doblaje automático de Instagram |
+| Cercanía y trato personal | Pocas cuentas locales hacen buen contenido para *vendedores* |
+| | Búsquedas locales en TikTok con poco contenido en vídeo |
 | **Debilidades** | **Amenazas** |
-| Cuenta inactiva (hay que "despertar" a la audiencia) | Grandes inmobiliarias y portales con más presupuesto |
-| Falta de sistema de producción | Desconfianza general hacia corredores → se gana con transparencia |
-| Tiempo limitado | Cambios de algoritmo → mitigar con comunidad propia (WhatsApp/lista) |
+| Cuenta inactiva (hay que "despertar" a la audiencia) | Grandes agencias y portales con más presupuesto |
+| Falta de sistema de producción | Mala imagen del sector por la crisis de vivienda → se gana con transparencia |
+| Tiempo limitado | Cambios de algoritmo → mitigar con comunidad propia (WhatsApp/lista de correo) |
 
 ---
 
 ## Fuentes
 
-**Algoritmos y plataformas**
-- [Instagram Algorithm 2026: 5 Ranking Signals Mosseri Confirmed — Dataslayer](https://www.dataslayer.ai/blog/instagram-algorithm-2025-complete-guide-for-marketers)
-- [Social media algorithms in 2026 — Hootsuite](https://blog.hootsuite.com/social-media-algorithm/)
-- [Instagram Reels Algorithm 2026: What Mosseri Confirmed — Highstyle](https://www.highstyle.ai/insights/instagram-reels-algorithm-2026)
-- [Instagram Implements New Limits on Hashtag Use — Social Media Today](https://www.socialmediatoday.com/news/instagram-implements-new-limits-on-hashtag-use/808309/)
-- [Instagram hashtags in 2026 — Later](https://later.com/blog/ultimate-guide-to-using-instagram-hashtags/)
-- [What is a Reel Trial and how does it work — Inro](https://www.inro.social/blog/what-is-a-reel-trial-and-how-does-it-work)
-- [Instagram Trial Reels 2026 Guide — Social Champ](https://www.socialchamp.com/blog/instagram-trial-reels/)
-- [Creator Search Insights — TikTok Newsroom](https://newsroom.tiktok.com/en-us/creator-search-insights) · [TikTok Support](https://support.tiktok.com/en/using-tiktok/growing-your-audience/creator-search-insights) · [Newsroom LatAm](https://newsroom.tiktok.com/es-latam/estadisticas-de-busqueda-de-creadores-tiktok-herramienta)
-- [TikTok Photo Mode Algorithm 2026 — Reelbase](https://reelbase.io/blog/tiktok-photo-mode-algorithm-explained)
+**Plataformas y algoritmos**
+- [Instagram Algorithm 2026: señales confirmadas por Mosseri — Dataslayer](https://www.dataslayer.ai/blog/instagram-algorithm-2025-complete-guide-for-marketers) · [Hootsuite](https://blog.hootsuite.com/social-media-algorithm/) · [Highstyle](https://www.highstyle.ai/insights/instagram-reels-algorithm-2026)
+- [Límite de 5 hashtags — Social Media Today](https://www.socialmediatoday.com/news/instagram-implements-new-limits-on-hashtag-use/808309/) · [Later](https://later.com/blog/ultimate-guide-to-using-instagram-hashtags/)
+- [Reels de prueba — Inro](https://www.inro.social/blog/what-is-a-reel-trial-and-how-does-it-work) · [Social Champ](https://www.socialchamp.com/blog/instagram-trial-reels/)
+- [Traducciones de voz en Instagram — Meta](https://about.fb.com/news/2025/11/instagram-empowers-creators-to-go-global-with-local-voice-translations-and-fonts/) · [Meta AI Translation — Meta](https://about.fb.com/news/2025/10/discover-reels-around-world-meta-ai-translation/)
+- [Creator Search Insights — TikTok](https://newsroom.tiktok.com/en-us/creator-search-insights) · [TikTok LatAm/ES](https://newsroom.tiktok.com/es-latam/estadisticas-de-busqueda-de-creadores-tiktok-herramienta)
+- [Estudio Metricool 2026 — Reason Why](https://www.reasonwhy.es/actualidad/estudio-instagram-metricool-2026) · [Datatonics](https://datatonics.substack.com/p/504-estudio-tiktok-2026-metricool)
+- [Estudio de Redes Sociales 2026 — IAB Spain](https://iabspain.es/estudio/estudio-redes-sociales-2026-iab-spain/)
 
 **Inmobiliario y redes**
-- [TikTok for Real Estate Agents: Views & Leads in 2026 — SocialRealtr](https://socialrealtr.com/blog/tiktok-for-real-estate-agents-how-to-get-views-and-leads-in-2026/)
-- [TikTok SEO for Real Estate Agents — Contempo Themes](https://contempothemes.com/tiktok-seo-real-estate-agents-local-discovery/)
-- [Real Estate Social Media Benchmarks 2026 — Apaya](https://apaya.com/blog/social-media-benchmarks-real-estate)
-- [Real Estate Marketing: The 2026 Instagram DM Playbook — SetSmart](https://setsmart.io/blog/real-estate-marketing)
-- [De profesora a corredora viral — 24horas.cl](https://www.24horas.cl/tendencias/redes-sociales/profesora-a-corredora-de-propiedades-viral-casas-millones-tiktok) · [Global Brokers](https://globalbrokers.cl/diario-inmobiliario/de-profesora-corredora-viral-la-historia-de-la-chilena-que-vende-casas-de-1000)
+- [TikTok for Real Estate Agents 2026 — SocialRealtr](https://socialrealtr.com/blog/tiktok-for-real-estate-agents-how-to-get-views-and-leads-in-2026/)
+- [Instagram DM Playbook 2026 — SetSmart](https://setsmart.io/blog/real-estate-marketing)
+- [La Inmobiliaria de TikTok — Trendencias](https://decoracion.trendencias.com/varios/el-agente-inmobiliario-que-triunfa-en-tiktok-vendiendo-casas-de-17-000-euros-en-asturias)
+- [Tiktokers inmobiliarios — elDiario.es](https://www.eldiario.es/madrid/somos/tiktokers-inmobiliarios-viralizan-alza-precios-vivienda-criticas-entran-oido-salen_1_11476978.html)
+- [Corredora chilena viral — Global Brokers](https://globalbrokers.cl/diario-inmobiliario/de-profesora-corredora-viral-la-historia-de-la-chilena-que-vende-casas-de-1000)
 
-**Chile: redes, mercado, comisiones, impuestos, datos**
-- [Redes sociales en Chile 2026 — Entel](https://ce.entel.cl/articulos/redes-sociales-en-chile-2024)
-- [Informe SOUL: plataformas digitales más usadas en 2026](https://souldigital.cl/blog/estudios-analisis-digital/plataformas-digitales-mas-usadas/)
-- [Mercado Inmobiliario en Santiago 2026 — Houm](https://blog.houm.com/mercado-inmobiliario-en-santiago-2026-tendencias-y-perspectivas/)
-- [Baja de tasas hipotecarias Chile 2026 — CFL](https://www.cfl.cl/2026/06/10/baja-tasas-hipotecarias-chile-2026/)
-- [Proyecciones del Mercado Inmobiliario 2026 — TodoPropiedades](https://www.todopropiedades.cl/noticia/1550-r-aumentan-las-ventas-de-propiedades-proyecciones-del-mercado-inmobiliario-2026-en-chile)
-- [¿Quién paga la comisión del corredor en Chile? — Divergente](https://divergentepropiedades.cl/quien-paga-la-comision-de-corredor-en-chile)
-- [Exención 8.000 UF — Propiedades Patagonia](https://propiedadesaysen.com/blog/exencion-8000-uf-venta-propiedad/) · [Buena Gestión](https://buenagestionpropiedades.cl/blog/impuestos-al-vender-una-propiedad-en-chile-quien-paga-cuanto-y-como-funciona-la-exencion-de-8-000-uf/)
-- [Ley 21.719 — Araya & Cía](https://www.araya.cl/2026/06/nueva-ley-de-proteccion-de-datos-personales-en-chile-que-es-por-que-es-clave-y-como-deben-prepararse-las-empresas/) · [Lawwwing](https://lawwwing.com/la-nueva-era-de-la-proteccion-de-datos-en-chile-que-cambia-con-la-ley-21-719/)
+**Alicante: mercado**
+- [44,65% de compras extranjeras — Alicante Plaza](https://alicanteplaza.es/alicanteplaza/plaza-inmobiliaria-alicante/los-extranjeros-ya-compran-el-4465-de-viviendas-en-la-provincia-de-alicante-y-suman-mas-tension-al-acceso) · [Moncloa.com](https://www.moncloa.com/2026/07/27/alicante-lidera-compra-vivienda-extranjeros-3406370)
+- [Nacionalidades — El Debate](https://www.eldebate.com/espana/comunidad-valenciana/20260418/estas-son-nacionalidades-casas-compran-alicante-vuelco-historico-mercado-record_408401.html) · [Servimedia](https://www.servimedia.es/noticias/extranjeros-superan-nacionales-como-principales-compradores-vivienda-provincia-alicante/1412783738)
+- [No residentes gastan un 60% más — TodoAlicante](https://www.todoalicante.es/economia/extranjeros-residentes-gastan-espanoles-comprar-vivienda-alicante-20260608081816-nt.html)
+- [Precios por barrio agosto 2026 — DS Alicante](https://dsalicante.com/vivienda/precio-vivienda-alicante-agosto-2026-barrios/) · [idealista](https://www.idealista.com/sala-de-prensa/informes-precio-vivienda/venta/comunitat-valenciana/alicante-alacant/alicante-alacant/) · [Fotocasa](https://www.fotocasa.es/indice-precio-vivienda/alicante-alacant/todas-las-zonas)
+- [Moratoria viviendas turísticas — Addient](https://www.addient.com/blog/alicante-suspende-durante-dos-anos-las-licencias-de-viviendas-turisticas) · [Ayuntamiento de Alicante](https://www.alicante.es/es/noticias/alicante-respalda-aprobacion-pleno-regulacion-alojamientos-turisticos)
+- [InterNations: Alicante 3.ª mejor ciudad para expatriados — Forbes](https://forbes.es/forbestravel/558947/valencia-es-nombrada-la-mejor-ciudad-para-vivir-del-mundo-por-internations-y-la-siguen-malaga-y-alicante/)
+
+**Costes, impuestos y normativa**
+- [Comisiones inmobiliarias 2026 — HelpMyCash](https://www.helpmycash.com/cat/inmobiliarias/comision-inmobiliaria/) · [RealAdvisor](https://realadvisor.es/es/blog/cuanto-cobra-inmobiliaria-por-vender-piso)
+- [IRPF y plusvalía al vender en 2026 — Housfy](https://housfy.com/blog/calculadora-irpf-venta-vivienda/) · [Agrucasa](https://www.agrucasa.com/noticia/irpf-al-vender-tu-vivienda-en-2026-guia-completa-y-calculo-practico/18432/es/)
+- [Real Decreto 390/2021 (certificado energético) — BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2021-9176) · [Multas — Certicalia](https://www.certicalia.com/blog/multas-por-no-tener-certificado-energetico)
+- [Registro de Agentes de Intermediación Inmobiliaria — GVA](https://sede.gva.es/en/detall-tramit?id_proc=22848) · [OCU](https://www.ocu.org/fincas-y-casas/compraventa/compraventa/analisis-gratis/2023/02/agentes-inmobiliarios-en-la-comunidad-valenciana)

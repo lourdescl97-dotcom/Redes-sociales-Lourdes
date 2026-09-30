@@ -1,225 +1,275 @@
-# 5. Guiones listos para grabar
+# 5. Guiones listos para grabar (Alicante)
 
-**Cómo usar estos guiones**
-- No los leas palabra por palabra: apréndete la idea y dilo con tus palabras (se nota cuando se lee).
-- **[Pantalla]** = texto que aparece en el video. **[Toma]** = qué se ve.
-- Reemplaza lo que está entre [corchetes] con tus datos reales. **Nunca inventes cifras ni casos**: si no tienes el dato, usa un rango o elimina la frase.
+**Cómo usarlos**
+- No los leas palabra por palabra: apréndete la idea y dilo con tus palabras.
+- **[Pantalla]** = texto que aparece en el vídeo. **[Toma]** = lo que se ve.
+- Sustituye lo que va entre [corchetes] por tus datos reales. **Nunca inventes cifras ni casos**: si no tienes el dato, usa un rango o quita la frase.
 - Duración objetivo: 20–45 segundos.
-- Descripción: 1–2 frases con palabras clave + pregunta + 3–5 hashtags.
+- Descripción: 1–2 frases con palabras clave + una pregunta + 3–5 hashtags.
+- En vídeos de viviendas concretas: añade la **calificación energética** en pantalla o en la descripción.
+- 🌍 = recomendado activar la traducción/doblaje al inglés de Instagram y poner subtítulos en inglés.
 
 ---
 
-## G1 — Re-presentación (fijar en el perfil)
-**Pilar:** Yo · **Objetivo:** que te conozcan y sepan para qué seguirte
+## G1 — Presentación (fijar en el perfil) 🌍
+**Pilar:** Yo · **Objetivo:** que te conozcan y sepan por qué seguirte
 
-**[Toma]** Caminando hacia la cámara en una calle linda de tu zona o entrando a una propiedad.
-**[Pantalla]** "Si vas a vender tu propiedad en [comuna], guárdame"
+**[Toma]** Caminando hacia la cámara por la Explanada o una calle bonita de tu zona.
+**[Pantalla]** "Si vas a vender tu casa en Alicante, guárdame"
 
-> "Si vas a vender tu casa o departamento en [ciudad], este es el único perfil que necesitas seguir.
-> Soy Lourdes, soy corredora/or de propiedades hace [X] años y he acompañado a [X] familias a vender.
-> Acá te voy a explicar todo lo que nadie te explica: cuánto vale de verdad tu propiedad, cuánto cuesta vender, qué errores evitar, y te voy a mostrar el mercado tal cual es.
-> Sin letra chica. Sígueme y cualquier duda, me escribes."
+> "Si vas a vender tu casa o tu piso en Alicante, este es el perfil que tienes que seguir.
+> Soy Lourdes, soy agente inmobiliaria/o desde hace [X] años y he acompañado a [X] familias a vender su casa.
+> Aquí te voy a explicar lo que nadie te explica: cuánto vale de verdad tu vivienda, cuánto cuesta vender, qué errores evitar, y te voy a enseñar el mercado tal y como es.
+> Sin letra pequeña. Sígueme, y si tienes cualquier duda, escríbeme."
 
-**[Pantalla final]** "Vender · Comprar · Invertir en [ciudad]"
-**Descripción:** "Corredora de propiedades en [ciudad]. Te explico cómo vender tu propiedad sin estrés. ¿Qué te gustaría que te explique primero? 👇 #corredoradepropiedades #[ciudad] #venderpropiedad"
+**[Pantalla final]** "Vender · Comprar · Vivir en Alicante"
+**Descripción:** "Agente inmobiliaria en Alicante. Te explico cómo vender tu piso sin estrés. ¿Qué quieres que te explique primero? 👇 #Alicante #InmobiliariaAlicante #VenderPiso"
 
 ---
 
-## G2 — 3 errores que hacen que tu propiedad no se venda
-**Pilar:** Vendedor · **Objetivo:** alcance + autoridad + envíos
+## G2 — 3 errores que hacen que tu piso no se venda
+**Pilar:** Vender · **Formato viral:** errores
 
-**[Toma]** Tú a cámara; en cada error, corte a una imagen de ejemplo (foto oscura, aviso sin datos, etc.).
-**[Pantalla]** "Por esto tu propiedad NO se vende"
+**[Toma]** Tú a cámara; en cada error, corte a un ejemplo (foto oscura, anuncio sin datos…).
+**[Pantalla]** "Por esto tu piso NO se vende"
 
-> "Si tu propiedad lleva meses publicada y nadie llama, casi siempre es uno de estos 3 errores.
-> Uno: el precio. Si publicas caro 'para negociar', los compradores ni la visitan, y cuando bajas el precio ya está 'quemada'.
-> Dos: las fotos. Fotos oscuras, verticales, con la cama sin hacer. La gente decide en 3 segundos si hace clic.
-> Tres: no está disponible. Si coordinar una visita toma una semana, el comprador ya compró otra.
-> Si te pasa alguno, mándame un mensaje y te digo qué cambiaría."
+> "Si tu piso lleva meses anunciado y no llama nadie, casi siempre es uno de estos 3 errores.
+> Uno: el precio. Si lo anuncias caro 'para tener margen', los compradores ni lo visitan, y cuando lo bajas ya está quemado.
+> Dos: las fotos. Oscuras, torcidas, con la cama sin hacer. La gente decide en 3 segundos si pincha.
+> Tres: no está disponible. Si cuadrar una visita cuesta una semana, el comprador ya se ha comprado otro.
+> Si te pasa alguno, escríbeme y te digo qué cambiaría."
 
 **CTA en pantalla:** "Mándaselo a quien está vendiendo 📩"
 
 ---
 
-## G3 — ¿Cuánto crees que cuesta? (serie #1)
-**Pilar:** Mercado · **Objetivo:** comentarios + retención (se quedan hasta el final por el precio)
+## G3 — ¿Cuánto crees que cuesta? (serie n.º 1) 🌍
+**Pilar:** Mercado · **Formato viral:** adivina el precio (el n.º 1 en comentarios)
 
-**[Toma]** Tour rápido: 6–8 clips de 1–2 s (entrada, living, cocina, dormitorio, baño, vista/terraza).
-**[Pantalla]** "¿Cuánto cuesta este depto en [comuna]? 🤔"
+**[Toma]** Visita rápida: 6–8 planos de 1–2 s (entrada, salón, cocina, dormitorio, baño, terraza/vistas).
+**[Pantalla]** "¿Cuánto cuesta este piso en [barrio]? 🤔"
 
-> "Departamento en [comuna], [X] dormitorios, [X] baños, [X] metros cuadrados.
+> "Piso en [barrio], [X] habitaciones, [X] baños, [X] metros.
 > Lo que más me gusta: [un detalle].
-> Lo que no me gusta: [un detalle honesto].
-> ¿Cuánto crees que cuesta? Déjalo en los comentarios antes de ver el precio…
-> Cuesta [precio]. ¿Caro o barato? Te leo."
+> Lo que no tanto: [un detalle sincero].
+> ¿Cuánto crees que cuesta? Déjalo en comentarios antes de ver el precio…
+> Cuesta [precio]. ¿Caro o barato? Os leo."
 
-**Nota:** usa propiedades tuyas o con autorización del dueño. No muestres número de calle ni elementos que identifiquen la seguridad del hogar.
+**Nota:** solo viviendas tuyas o con permiso del propietario. Sin número de portal ni elementos de seguridad. Añade la etiqueta energética.
 
 ---
 
-## G4 — Cómo llegué a ser corredora/or
+## G4 — Cómo acabé siendo agente inmobiliaria/o
 **Pilar:** Yo · **Objetivo:** conexión emocional
 
 **[Toma]** Fotos antiguas tuyas / de tu trabajo anterior + tú a cámara hoy.
-**[Pantalla]** "Nunca pensé que iba a vender casas"
+**[Pantalla]** "Nunca pensé que acabaría vendiendo casas"
 
 > "Hace [X] años yo [lo que hacías antes].
-> [El momento que lo cambió: una experiencia propia o de tu familia vendiendo/comprando].
-> Ahí me di cuenta de que [tu aprendizaje, ej.: la mayoría de la gente vende sin entender nada del proceso, y eso le cuesta plata].
-> Por eso hoy trabajo así: [tu forma de trabajar en 1 frase].
-> Y por eso hago estos videos: para que nadie venda su casa a ciegas."
+> [El momento que lo cambió todo].
+> Ahí me di cuenta de que [tu aprendizaje, ej.: la mayoría de la gente vende sin entender el proceso, y eso le cuesta dinero].
+> Por eso hoy trabajo así: [tu forma de trabajar en una frase].
+> Y por eso hago estos vídeos: para que nadie venda su casa a ciegas."
 
 ---
 
-## G5 — Qué compras con [monto] en 3 comunas
-**Pilar:** Mercado · **Objetivo:** alcance masivo + guardados
+## G5 — Qué te compras con 200.000 € en 3 barrios de Alicante 🌍
+**Pilar:** Mercado · **Formato viral:** comparativa
 
-**[Toma]** Green screen con fotos (propias o de avisos públicos sin datos personales) o clips de 3 propiedades.
-**[Pantalla]** "Qué compras con [monto] en [comuna A] vs [B] vs [C]"
+**[Toma]** Pantalla verde con fotos (tuyas o de anuncios públicos sin datos personales) o planos de 3 viviendas.
+**[Pantalla]** "200.000 € en Alicante: [barrio A] vs [B] vs [C]"
 
-> "Con [monto], esto es lo que te alcanza hoy en 3 comunas.
-> En [A]: [tipo, m², dormitorios]. Lo bueno: [x]. Lo malo: [y].
+> "Con 200.000 euros, esto es lo que te compras hoy en 3 barrios de Alicante.
+> En [A]: [tipo, m², habitaciones]. Lo bueno: [x]. Lo malo: [y].
 > En [B]: [tipo, m²]. Lo bueno: [x].
-> Y en [C]: [tipo, m²]. Esta me sorprendió porque [x].
-> ¿Cuál elegirías tú? A, B o C. Te leo."
+> Y en [C]: [tipo, m²]. Este me sorprendió porque [x].
+> ¿Cuál elegirías tú? ¿A, B o C?"
+
+**Dato de apoyo (actualízalo):** según idealista (agosto 2026), un piso de 80 m² va de ~110.000 € en Virgen del Remedio a ~310.000 € en Playa de San Juan-El Cabo.
 
 ---
 
-## G6 — Cuánto cobra un corredor y qué debería incluir
-**Pilar:** Vendedor · **Objetivo:** transparencia = confianza; atrae dueños
+## G6 — Cuánto cobra una inmobiliaria y qué debería incluir
+**Pilar:** Vender · **Objetivo:** transparencia = confianza
 
-**[Pantalla]** "¿Cuánto cobra un corredor? (y qué DEBERÍA incluir)"
+**[Pantalla]** "¿Cuánto cobra una inmobiliaria? (y qué DEBERÍA incluir)"
 
-> "¿Cuánto cobra un corredor de propiedades en Chile? Lo habitual es un 2% más IVA del precio de venta, pero no lo fija la ley: se conversa.
-> Lo importante no es el porcentaje, es qué incluye. Como mínimo, debería incluir: un estudio de precio con comparables reales, fotos profesionales, publicación y difusión, filtrar a los interesados, coordinar y acompañar las visitas, negociar por ti y acompañarte hasta la firma y la entrega.
-> Si solo sube tu aviso a un portal y espera, no le estás pagando por un servicio, le estás pagando por suerte.
-> ¿Te han cobrado sin hacer nada? Cuéntame."
+> "¿Cuánto cobra una inmobiliaria por vender tu piso? En España no hay un precio fijado por ley: lo habitual está entre un 3 y un 5 %, más el 21 % de IVA. Y ojo, casi siempre se anuncia sin IVA.
+> Pero lo importante no es el porcentaje, es qué incluye. Como mínimo: un estudio de precio con ventas reales de la zona, fotos profesionales, certificado energético y documentación en regla, difusión, filtrar a los interesados, acompañar las visitas, negociar por ti y acompañarte hasta la notaría.
+> Si solo sube tu anuncio a un portal y espera, no pagas un servicio: pagas suerte.
+> ¿Te han cobrado sin hacer nada? Cuéntamelo."
 
 ---
 
-## G7 — No arregles nada antes de vender hasta ver esto
-**Pilar:** Vendedor · **Objetivo:** guardados + autoridad
+## G7 — No reformes nada antes de vender hasta ver esto
+**Pilar:** Vender · **Objetivo:** guardados
 
-**[Pantalla]** "¿Arreglar antes de vender? Esto SÍ, esto NO"
+**[Pantalla]** "¿Reformar antes de vender? Esto SÍ, esto NO"
 
-> "Antes de gastar plata arreglando tu casa para venderla, escucha esto.
-> Lo que SÍ vale la pena: pintar de colores neutros, arreglar lo que está roto (llaves que gotean, enchufes, puertas), limpieza profunda y sacar cosas para que se vea amplio.
-> Lo que NO: remodelar la cocina completa o el baño justo antes de vender. Rara vez recuperas lo que gastas, y el comprador igual lo va a querer a su gusto.
-> Regla simple: arregla, no remodeles.
-> Guárdalo para cuando te toque."
+> "Antes de gastarte dinero reformando para vender, escucha esto.
+> Lo que SÍ merece la pena: pintar en tonos neutros, arreglar lo que está roto (grifos que gotean, enchufes, puertas), una limpieza a fondo y quitar cosas para que se vea amplio.
+> Lo que NO: reformar la cocina o el baño enteros justo antes de vender. Rara vez recuperas lo que gastas, y el comprador lo va a querer a su gusto.
+> Regla sencilla: arregla, no reformes.
+> Guárdatelo para cuando te toque."
 
 ---
 
 ## G8 — Caso real: llevaban meses sin vender
-**Pilar:** Confianza (caso) · **Objetivo:** prueba de que sabes lo que haces
-**⚠️ Solo con un caso real y con permiso del cliente (o sin datos que lo identifiquen).**
+**Pilar:** Confianza · **⚠️ Solo con un caso real y con permiso del cliente (o sin datos que lo identifiquen).**
 
-**[Toma]** Fotos antes (las del aviso anterior) vs. después (tus fotos). Tú contando.
+**[Toma]** Fotos antes (las del anuncio anterior) vs. después (las tuyas). Tú contándolo.
 **[Pantalla]** "[X] meses sin vender. Cambiamos 3 cosas y se vendió en [X] días"
 
-> "Esta propiedad llevaba [X] meses publicada sin una sola oferta seria.
-> Cuando la vi, cambiamos 3 cosas:
-> Uno, [ej.: ajustamos el precio según comparables reales].
-> Dos, [ej.: fotos nuevas, de día, con orden].
-> Tres, [ej.: la mostramos para el perfil correcto: familias, no inversionistas].
+> "Este piso llevaba [X] meses anunciado sin una sola oferta seria.
+> Cuando lo vi, cambiamos 3 cosas:
+> Una, [ej.: ajustamos el precio con ventas reales del barrio].
+> Dos, [ej.: fotos nuevas, con luz natural y orden].
+> Tres, [ej.: lo enfocamos al comprador correcto: familias / extranjeros].
 > Resultado: [resultado real].
 > Tu casa no está mal. Muchas veces solo está mal presentada."
 
 ---
 
-## G9 — Si tus papás quieren vender la casa familiar
-**Pilar:** Vendedor · **Objetivo:** llegar al "avatar puente" (hijos) → envíos por DM
+## G9 — Si tus padres quieren vender la casa familiar
+**Pilar:** Vender · **Objetivo:** llegar a los hijos → envíos por DM
 
-**[Pantalla]** "Si tus papás quieren vender la casa, muéstrales esto"
+**[Pantalla]** "Si tus padres quieren vender la casa, enséñales esto"
 
-> "Si tus papás están pensando en vender la casa donde creciste, esto les va a servir.
-> Uno: antes de publicar, pidan una opinión de precio basada en ventas reales de la zona, no en lo que dice el vecino.
-> Dos: revisen que los papeles estén al día. Si es herencia o hay un crédito vigente, se puede vender igual, pero hay pasos extra.
-> Tres: no dejen que entren desconocidos sin filtro. Un buen corredor filtra a los interesados y acompaña cada visita.
+> "Si tus padres están pensando en vender la casa en la que creciste, esto les va a servir.
+> Uno: antes de anunciarla, pedid una valoración basada en ventas reales de la zona, no en lo que dice el vecino.
+> Dos: si tienen más de 65 años y es su vivienda habitual, puede que no paguen IRPF por la ganancia. Que lo confirmen con un asesor, pero es clave saberlo antes.
+> Tres: que no entren desconocidos sin filtro. Un buen agente filtra a los interesados y acompaña cada visita.
 > Mándaselo a tus hermanos."
 
 ---
 
-## G10 — 3 razones por las que todos quieren vivir en [barrio]
-**Pilar:** Zona · **Objetivo:** posicionamiento local + búsquedas locales
+## G10 — Por qué todo el mundo se quiere mudar a Alicante 🌍
+**Pilar:** Vivir en Alicante · **Formato viral:** vida en Alicante
 
-**[Toma]** Caminando por el barrio: 3 lugares, 3 cortes.
-**[Pantalla]** "3 razones para vivir en [barrio]"
+**[Toma]** Paseo: mar, Explanada, castillo, un mercado, una terraza. Cortes rápidos.
+**[Pantalla]** "Por qué todo el mundo se muda a Alicante"
 
-> "¿Por qué todos me preguntan por propiedades en [barrio]?
-> Una: [razón 1, ej.: puedes hacer todo caminando].
-> Dos: [razón 2, ej.: esta plaza/este café].
-> Tres: [razón 3, ej.: conectividad al metro].
-> Y lo que nadie te dice: [algo honesto, ej.: el estacionamiento es un tema].
-> ¿Te gustaría vivir acá?"
+> "¿Por qué todo el mundo se quiere mudar a Alicante?
+> Uno: [más de 300 días de sol al año / el clima en invierno — verifica el dato].
+> Dos: tienes playa, ciudad y aeropuerto a [X] minutos.
+> Tres: la calidad de vida. Por algo los expatriados la votaron entre las 3 mejores ciudades del mundo para vivir.
+> Y lo que nadie te dice: [algo sincero, ej.: los precios han subido mucho, así que hay que elegir bien el barrio].
+> ¿Te vendrías a vivir aquí?"
+
+**Variante por barrio:** "3 razones para vivir en [barrio]" (mismo esquema, con 3 lugares del barrio).
 
 ---
 
-## G11 — POV: el dueño que quiere vender al doble
-**Pilar:** Humor · **Objetivo:** alcance + compartidos (identificación)
-**⚠️ Humor sobre situaciones, nunca burla de clientes reales.**
+## G11 — POV: el propietario que quiere vender al precio de Madrid
+**Pilar:** Humor · **⚠️ Humor sobre situaciones, nunca sobre clientes reales.**
 
-**[Toma]** Tú haces los dos personajes (cambia algo simple: lentes, chaqueta). Cortes rápidos.
+**[Toma]** Tú haces los dos personajes (cambia algo simple: gafas, chaqueta). Cortes rápidos.
 
-> **Dueño:** "Quiero venderla en [precio exagerado]."
-> **Tú:** "Las del edificio se vendieron en [precio real]…"
-> **Dueño:** "Sí, pero la mía tiene alma."
+> **Propietario:** "Quiero venderlo por [precio exagerado]."
+> **Tú:** "Los del edificio se han vendido por [precio real]…"
+> **Propietario:** "Ya, pero el mío tiene alma."
 > **Tú (mirando a cámara):** 😐
-> **[Pantalla final]** "El 'alma' no la tasa el banco 😅 ¿Cuánto vale de verdad tu propiedad? Escríbeme."
+> **[Pantalla final]** "El 'alma' no la tasa el banco 😅 ¿Cuánto vale de verdad tu piso? Escríbeme."
 
 ---
 
-## G12 — Tour "opinión honesta" de tu propiedad
-**Pilar:** Propiedad · **Objetivo:** vender sin parecer aviso
+## G12 — Visita "opinión sincera" de tu vivienda 🌍
+**Pilar:** Vivienda · **Objetivo:** vender sin parecer un anuncio
 
-**[Pantalla]** "Opinión honesta de este depto en [comuna]"
+**[Pantalla]** "Opinión sincera de este piso en [barrio]"
 
-> "Te muestro este departamento y te doy mi opinión honesta, lo bueno y lo no tan bueno.
+> "Te enseño este piso y te doy mi opinión sincera, lo bueno y lo no tan bueno.
 > Lo mejor: [2 cosas reales].
-> Lo que tienes que saber: [1 cosa honesta, ej.: el segundo dormitorio es chico].
+> Lo que tienes que saber: [1 cosa sincera, ej.: el segundo dormitorio es pequeño].
 > Para quién es perfecto: [perfil].
-> Precio: [precio]. Si es para ti, o conoces a alguien, escríbeme y coordinamos la visita."
+> Precio: [precio]. Calificación energética: [letra]. Si es para ti, o conoces a alguien, escríbeme y lo vemos."
 
-**Por qué funciona:** decir un "pero" honesto multiplica la credibilidad de todo lo demás.
-
----
-
-## G13 — ¿Pagas impuesto si vendes tu casa?
-**Pilar:** Vendedor · **Objetivo:** búsquedas + guardados
-
-**[Pantalla]** "¿Pagas impuesto al vender tu casa? 🤔"
-
-> "¿Pagas impuesto si vendes tu propiedad? Te lo explico fácil.
-> Si eres persona natural, en general existe un beneficio: la ganancia de capital no paga impuesto hasta 8.000 UF acumuladas en toda tu vida, cumpliendo ciertos requisitos.
-> Ojo: la ganancia no es el precio de venta, es la diferencia entre lo que pagaste —reajustado— y lo que vendes.
-> Hay excepciones, por ejemplo si vendes a un familiar directo o a tu propia empresa.
-> Cada caso es distinto, así que confírmalo con tu contador. Pero no dejes que el miedo al impuesto te paralice sin saber tus números."
-
-**⚠️ Antes de publicar:** verifica que las reglas vigentes no hayan cambiado y ajusta el guion si trabajas en otro país.
+**Por qué funciona:** decir un "pero" sincero multiplica la credibilidad de todo lo demás.
 
 ---
 
-## G14 — ¿Es buen momento para vender?
+## G13 — ¿Cuánto pagas a Hacienda al vender tu piso?
+**Pilar:** Vender · **Objetivo:** búsquedas + guardados
+**⚠️ Verifica los tipos y exenciones vigentes antes de publicar y consulta con un asesor fiscal.**
+
+**[Pantalla]** "¿Cuánto pagas a Hacienda al vender tu piso? 🤔"
+
+> "Si vendes tu piso, hay dos impuestos que tienes que conocer.
+> Uno: el IRPF, pero solo por lo que ganas, no por el precio. Es la diferencia entre lo que te costó —con gastos y reformas— y lo que vendes. Se paga por tramos, más o menos entre el 19 y el 28 %.
+> Dos: la plusvalía municipal, que cobra el ayuntamiento por el aumento del valor del suelo.
+> Y hay casos en los que no pagas IRPF: por ejemplo, si tienes más de 65 años y vendes tu vivienda habitual, o si reinviertes el dinero en otra vivienda habitual.
+> Cada caso es distinto: confírmalo con tu asesor. Pero no dejes que el miedo a Hacienda te paralice sin saber tus números."
+
+---
+
+## G14 — ¿Es buen momento para vender en Alicante?
 **Pilar:** Mercado · **Objetivo:** comentarios + autoridad (actualízalo cada trimestre)
 
-**[Pantalla]** "¿Es buen momento para vender? Mi opinión honesta"
+**[Pantalla]** "¿Es buen momento para vender en Alicante? Mi opinión sincera"
 
-> "Todos me preguntan si es buen momento para vender. Mi opinión honesta:
-> Las tasas hipotecarias bajaron este año, y eso significa más personas con crédito aprobado buscando dónde comprar. Eso es bueno para ti si vendes.
-> Pero los precios están estables, no subiendo. Entonces no es momento de 'publicar caro y esperar'.
-> Si tu propiedad tiene buen precio y está bien presentada, hoy se vende. Si no, se queda publicada.
-> ¿Tú estás pensando en vender este año? Cuéntame en los comentarios."
+> "Todo el mundo me pregunta si es buen momento para vender. Mi opinión sincera:
+> Los precios en Alicante están en máximos, y casi la mitad de los compradores son extranjeros, muchos con presupuestos altos. Eso es bueno si vendes.
+> Pero cuidado: que el mercado esté alto no significa que cualquier precio valga. Los pisos bien valorados se venden; los que se anuncian 'a ver si cuela', se quedan meses.
+> Si tu piso tiene buen precio y está bien presentado, hoy se vende.
+> ¿Estás pensando en vender este año? Cuéntamelo en comentarios."
 
 ---
 
-## G15 — Comenta VENDER (lanzamiento del imán de clientes)
-**Pilar:** Vendedor/Venta · **Objetivo:** conseguir contactos
+## G15 — Comenta VENDER (lanzamiento de la guía)
+**Pilar:** Vender · **Objetivo:** conseguir contactos
 
-**[Toma]** Tú mostrando la guía en el celular o en papel.
-**[Pantalla]** "Guía gratis: 10 errores que te hacen perder plata al vender"
+**[Toma]** Tú enseñando la guía en el móvil o en papel.
+**[Pantalla]** "Guía gratis: 10 errores que te hacen perder dinero al vender"
 
-> "Armé una guía con los 10 errores que más plata les cuestan a las personas cuando venden su propiedad.
-> Son cosas que veo todas las semanas, y la mayoría se pueden evitar si las sabes antes.
+> "He preparado una guía con los 10 errores que más dinero les cuestan a los propietarios cuando venden su piso.
+> Son cosas que veo cada semana, y la mayoría se pueden evitar si las sabes antes.
 > Es gratis. Comenta VENDER y te la mando por mensaje."
 
-**Requisito:** tener la automatización o responder a mano cada comentario en menos de 1 hora (ver doc 6).
+**Requisito:** tener la automatización o responder a mano cada comentario en menos de 1 hora (doc 6).
+
+---
+
+## G16 — Revelación: "Abro esta persiana y…" 🌍
+**Pilar:** Mercado/Vivienda · **Formato viral:** revelación (espera a verlo)
+
+**[Toma]** Estancia en penumbra, persiana bajada. Tu mano en la cinta/el botón. Subes la persiana y aparece el mar (o una terraza espectacular). Plano final amplio.
+**[Pantalla]** "Espera a que suba la persiana… 👀"
+
+> (Sin hablar al principio, solo el sonido de la persiana.)
+> "Esto es lo que se ve cada mañana desde este piso en [zona].
+> [X] habitaciones, [X] m², a [X] minutos de la playa.
+> ¿Cuánto pagarías por despertarte con esto?"
+
+**Clave:** el bucle de curiosidad retiene hasta la revelación; el final con pregunta genera comentarios. Etiqueta energética en la descripción.
+
+---
+
+## G17 — 5 errores de los extranjeros al comprar casa en España 🌍
+**Pilar:** Vivir en Alicante / extranjeros · **Objetivo:** público internacional (activa traducción al inglés + subtítulos en inglés)
+**⚠️ Verifica cada punto con un abogado/gestor antes de publicarlo.**
+
+**[Pantalla]** "5 errores al comprar casa en España siendo extranjero"
+
+> "Si vienes de fuera y quieres comprar casa en Alicante, evita estos 5 errores.
+> Uno: no pedir la nota simple para comprobar que la vivienda no tiene cargas.
+> Dos: no calcular los impuestos y gastos de compra, que se suman al precio.
+> Tres: comprar para alquilar a turistas sin comprobar si se puede. En Alicante hay limitaciones a nuevas licencias turísticas.
+> Cuatro: dejar el NIE y la cuenta bancaria para el último momento.
+> Cinco: firmar arras sin entender lo que firmas. Pide siempre que te lo expliquen en tu idioma.
+> Si estás pensando en comprar en Alicante, escríbeme."
+
+---
+
+## G18 — Cómo detectar un anuncio falso de alquiler en 10 segundos
+**Pilar:** Confianza · **Formato viral:** anti-estafa (muy compartible)
+
+**[Toma]** Pantalla verde con un anuncio ficticio (inventado por ti, sin datos reales) que tenga las señales típicas.
+**[Pantalla]** "¿Este anuncio es una estafa? 3 señales"
+
+> "Están circulando anuncios de pisos en el centro por 400 euros al mes. Así detectas si es una estafa en 10 segundos.
+> Uno: el precio es demasiado bueno para la zona.
+> Dos: te piden dinero antes de ver el piso, 'para reservarlo'.
+> Tres: el 'propietario' está fuera del país y no te lo puede enseñar.
+> Si ves las tres, huye. Y mándaselo a quien esté buscando piso."
+
+**Por qué funciona:** te pone del lado de la gente en plena crisis de vivienda: viralidad + confianza.

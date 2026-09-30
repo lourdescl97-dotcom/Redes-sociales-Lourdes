@@ -1,145 +1,153 @@
 # 6. Embudo, métricas y conversión
 
-## 1. El embudo: de "view" a cliente
+## 1. El embudo: de "visualización" a cliente
 
 ```
- ALCANCE        Videos de los pilares 1–3 (TikTok + Reels)          → te descubren
+ ALCANCE        Vídeos virales de los pilares 1–3 (TikTok + Reels, con traducción)  → te descubren
     ↓
- INTERÉS        Visitan tu perfil: bio clara, destacadas, fijados   → te siguen
+ INTERÉS        Visitan tu perfil: bio clara, destacadas, fijados                   → te siguen
     ↓
- CONFIANZA      Historias diarias, casos, testimonios, lives        → te ven como "su" corredora/or
+ CONFIANZA      Historias diarias, casos, testimonios, directos                      → te ven como "su" agente
     ↓
- CONVERSACIÓN   "Comenta VENDER", DM, WhatsApp, formulario           → te escriben
+ CONVERSACIÓN   "Comenta VENDER", DM, WhatsApp, formulario                           → te escriben
     ↓
- REUNIÓN        Llamada / visita de tasación referencial             → te conocen en persona
+ REUNIÓN        Llamada / visita de valoración (o videollamada si vive fuera)         → te conocen
     ↓
- CLIENTE        Firma de orden de venta                               → captaste la propiedad
+ CLIENTE        Firma de la hoja de encargo                                          → captas la vivienda
     ↓
- EMBAJADOR      Testimonio + referidos                                → alimenta la confianza de los siguientes
+ EMBAJADOR      Testimonio + reseña en Google + recomendaciones                       → alimenta la confianza de los siguientes
 ```
 
-**Lo que más falla en los corredores:** tienen alcance pero no tienen un "siguiente paso". Cada pieza de contenido debe tener **una** acción clara.
+**Lo que más falla:** hay alcance pero no hay "siguiente paso". Cada contenido debe tener **una** acción clara.
 
 ---
 
-## 2. Imán de clientes: la guía "10 errores que te hacen perder plata al vender"
+## 2. Imán de clientes: guía "10 errores que te hacen perder dinero al vender tu piso"
 
-Una guía gratis (PDF de 5–8 páginas en Canva) que se entrega a cambio de un comentario o de dejar datos. Sirve para: conseguir contactos, demostrar conocimiento y darte una excusa para hacer seguimiento.
+Una guía gratis (PDF de 5–8 páginas hecho en Canva) que se entrega a cambio de un comentario o de dejar tus datos. Sirve para conseguir contactos, demostrar lo que sabes y tener una excusa para el seguimiento.
 
 ### Índice sugerido
-1. Publicar con un precio "para negociar".
-2. Elegir corredor por la comisión más baja (o por quien te dice el precio más alto).
-3. Fotos malas (o sacadas con el celular de noche).
-4. No tener los documentos listos cuando aparece el comprador.
-5. Remodelar en vez de reparar.
-6. Mostrar la propiedad con desorden o con demasiados objetos personales.
-7. No filtrar a los interesados (visitas que no califican para crédito).
-8. Aceptar la primera oferta sin revisar condiciones (plazos, forma de pago).
-9. No considerar los gastos e impuestos al calcular cuánto te queda.
-10. Desaparecer del proceso: no dar seguimiento al corredor ni al comprador.
+1. Anunciarlo con un precio "para negociar".
+2. Elegir inmobiliaria por la comisión más baja (o por quien te dice el precio más alto).
+3. Fotos malas (o hechas con el móvil de noche).
+4. No tener los papeles listos (nota simple, certificado energético, IBI, certificado de la comunidad…) cuando aparece el comprador.
+5. Reformar en lugar de reparar.
+6. Enseñar la casa desordenada o llena de objetos personales.
+7. No filtrar a los interesados (visitas sin financiación).
+8. Aceptar la primera oferta sin revisar condiciones (plazos, arras, forma de pago).
+9. No calcular impuestos y gastos (IRPF, plusvalía, comisión, cancelación de hipoteca) para saber cuánto te queda.
+10. Desaparecer del proceso: no hacer seguimiento.
 
-**Última página:** tu foto, 3 líneas sobre ti, testimonio breve y botón "Pide tu tasación referencial gratis por WhatsApp".
+**Última página:** tu foto, 3 líneas sobre ti, un testimonio breve, tu nº de registro de agente y el botón "Pide tu valoración gratuita por WhatsApp".
 
-Otras guías para después: "Checklist de documentos para vender", "Guía para vender una propiedad heredada", "Guía de primera vivienda".
+**Versión en inglés** (fase 2–3): "10 mistakes when selling your home in Spain" (con el apartado de no residentes: retención del 3%, representación fiscal, poder notarial…).
+
+Otras guías para más adelante: "Checklist de documentos para vender", "Guía para vender un piso heredado", "Buying a home in Alicante: step by step".
 
 ---
 
 ## 3. Automatización "comenta VENDER"
 
-**Herramienta:** ManyChat (o similar) conectada a la API oficial de Instagram. Hay plan gratuito con funciones básicas. En TikTok, responde a mano o invita a pasar a IG/WhatsApp.
+**Herramienta:** ManyChat (o similar) conectada a la API oficial de Instagram. Tiene plan gratuito con lo básico. En TikTok, responde a mano o invita a pasar a Instagram/WhatsApp.
 
 ### Flujo
 1. Alguien comenta **VENDER** en un Reel.
-2. Respuesta pública automática al comentario: "¡Te la mandé por DM! 📩"
+2. Respuesta pública automática: "¡Te la he mandado por privado! 📩"
 3. DM automático:
-   > "¡Hola! 😊 Aquí tienes la guía '10 errores que te hacen perder plata al vender': [link]
+   > "¡Hola! 😊 Aquí tienes la guía '10 errores que te hacen perder dinero al vender': [enlace]
    > Una pregunta rápida para ayudarte mejor: ¿estás pensando en vender pronto?
    > 1️⃣ Sí, en los próximos 3 meses
    > 2️⃣ Este año
    > 3️⃣ Solo me estoy informando"
-4. Si responde **1 o 2** → mensaje: "¡Buenísimo! ¿En qué comuna está tu propiedad? Si quieres, te hago una tasación referencial gratis. ¿Te acomoda que te escriba por WhatsApp?" → **te notifica para que tomes la conversación tú.**
-5. Si responde **3** → "¡Perfecto! Sígueme, que todas las semanas explico algo nuevo. Si en algún momento te decides, me escribes 🙌"
+4. Si responde **1 o 2** → "¡Genial! ¿En qué zona está tu vivienda? Si quieres, te hago una valoración gratuita. ¿Te parece bien que te escriba por WhatsApp?" → **te avisa para que sigas tú la conversación.**
+5. Si responde **3** → "¡Perfecto! Sígueme, que cada semana explico algo nuevo. Si en algún momento te decides, escríbeme 🙌"
 
 ### Palabras clave adicionales
-- **TASAR** → oferta de tasación referencial.
-- **COMPRAR** → guía de primera vivienda / búsqueda de propiedades.
-- **ZONA** → guía de tu barrio/comuna.
+- **VALORAR** → oferta de valoración gratuita.
+- **COMPRAR** → guía de compra / búsqueda de vivienda.
+- **ALICANTE** → guía de barrios.
+- **SELL / BUY** → flujo en inglés para el público internacional.
 
 ---
 
-## 4. Guiones para DMs y WhatsApp (conversación humana)
+## 4. Mensajes para DM y WhatsApp
 
-**Primer mensaje cuando alguien pregunta algo general:**
-> "¡Hola [nombre]! Gracias por escribir 😊 Te respondo: [respuesta breve y útil]. ¿Lo preguntas porque estás pensando en vender o comprar?"
+**Pregunta general:**
+> "¡Hola [nombre]! Gracias por escribir 😊 Te cuento: [respuesta breve y útil]. ¿Lo preguntas porque estás pensando en vender o en comprar?"
 
-**Cuando alguien quiere vender:**
-> "¡Qué bueno! Para darte una idea realista del valor, ¿me cuentas la comuna, si es casa o depto, los m² aprox. y si tiene estacionamiento/bodega? Con eso te preparo un análisis de precio con ventas reales de la zona, sin compromiso."
+**Quiere vender:**
+> "¡Qué bien! Para darte una idea realista del valor, ¿me dices la zona, si es piso o casa, los m² aproximados y si tiene garaje/trastero/terraza? Con eso te preparo un análisis con ventas reales de la zona, sin compromiso."
 
-**Seguimiento (si no responde en 3 días):**
-> "¡Hola [nombre]! Te escribo solo para saber si te sirvió la info. Si prefieres conversarlo por llamada, dime qué día te acomoda 🙌"
+**Seguimiento (si no contesta en 3 días):**
+> "¡Hola [nombre]! Te escribo solo para saber si te sirvió la información. Si prefieres que lo hablemos por teléfono, dime qué día te viene bien 🙌"
 
-**Regla:** responde en menos de 1 hora en horario laboral. La velocidad de respuesta es el factor n.º 1 para convertir un contacto de redes en cliente.
+**Contacto extranjero (inglés):**
+> "Hi [name]! Thanks for your message 😊 I'd be happy to help you [buy/sell] in Alicante. Could you tell me the area, type of property and your timeline? We can also have a video call if you're not in Spain right now."
+
+**Regla:** responde en menos de 1 hora en horario laboral. La rapidez es el factor n.º 1 para convertir un contacto de redes en cliente.
 
 ---
 
-## 5. Protección de datos (importante desde diciembre de 2026 en Chile)
+## 5. Protección de datos (RGPD + LOPDGDD)
 
-La **Ley 21.719** de protección de datos personales entra en vigencia el **1 de diciembre de 2026** y aplica sin importar el tamaño de la empresa (con posibles plazos de gracia para empresas de menor tamaño). Para tus formularios y automatizaciones:
+En España se aplican el **Reglamento General de Protección de Datos (RGPD)** y la **Ley Orgánica 3/2018 (LOPDGDD)**. Para tus formularios y automatizaciones:
 
-- [ ] Pide **consentimiento explícito** (casilla NO premarcada): "Acepto que Lourdes me contacte por WhatsApp/correo sobre mi consulta inmobiliaria".
-- [ ] Explica en 1 línea para qué usarás los datos y cómo pedir que los borres.
-- [ ] Pide solo los datos que necesitas.
-- [ ] Guarda tus contactos en un lugar seguro (no en capturas de pantalla sueltas).
-- [ ] No agregues a nadie a listas o grupos de difusión sin que lo haya pedido.
-- [ ] Consulta con un abogado para una política de privacidad breve en tu link de bio.
+- [ ] **Consentimiento explícito** (casilla NO premarcada): "Acepto que Lourdes me contacte por WhatsApp/correo sobre mi consulta inmobiliaria".
+- [ ] Información básica de privacidad: quién trata los datos, para qué, cuánto tiempo y cómo ejercer tus derechos (enlace a tu política de privacidad).
+- [ ] Pide solo los datos necesarios.
+- [ ] Guarda los contactos en un lugar seguro (no en capturas de pantalla sueltas).
+- [ ] No añadas a nadie a listas de difusión sin que lo haya pedido.
+- [ ] Revisa con un profesional tu política de privacidad y el aviso legal de tu web/enlace en bio.
 
 ---
 
 ## 6. Métricas: qué medir (y qué ignorar)
 
-### Métricas que importan
-
 | Nivel | Métrica | Dónde verla | Por qué |
 |-------|---------|-------------|---------|
-| Alcance | Views por video / cuentas alcanzadas | Estadísticas de cada video | ¿El tema y el gancho atraen? |
-| Retención | % de visualización promedio / tiempo promedio / % que ve completo | Estadísticas del video | ¿El video mantiene la atención? |
-| Valor | **Envíos (compartidos)** y **guardados** por cada 1.000 views | Estadísticas del video | Señal n.º 1 para crecer en IG |
-| Comunidad | Seguidores ganados por video | Estadísticas | ¿El video hace que quieran más de ti? |
-| Conversión | Comentarios con palabra clave, DMs, clics a WhatsApp | ManyChat / bandeja / link en bio | ¿Las views se convierten en conversaciones? |
-| Negocio | Reuniones, tasaciones, captaciones, ventas originadas en redes | Tu planilla | **La métrica que realmente importa** |
+| Alcance | Visualizaciones por vídeo / cuentas alcanzadas | Estadísticas de cada vídeo | ¿El tema y el gancho atraen? |
+| Retención | % de visualización / tiempo medio / % que lo ve entero / % que pasa de los 3 s | Estadísticas del vídeo | ¿El vídeo mantiene la atención? |
+| Valor | **Envíos** y **guardados** por cada 1.000 visualizaciones | Estadísticas del vídeo | Señal n.º 1 para crecer en IG |
+| Audiencia | % de visualizaciones de España vs. otros países | Estadísticas de la cuenta | ¿Funciona la traducción? ¿Merece una serie en inglés? |
+| Comunidad | Seguidores ganados por vídeo | Estadísticas | ¿El vídeo hace que quieran más de ti? |
+| Conversión | Comentarios con palabra clave, DMs, clics a WhatsApp | ManyChat / bandeja / enlace en bio | ¿Las visualizaciones se convierten en conversaciones? |
+| Negocio | Reuniones, valoraciones, encargos, ventas originadas en redes | Tu hoja de registro | **La métrica que de verdad importa** |
 
-**Pregunta siempre en la primera reunión: "¿Cómo llegaste a mí?"** y anótalo. Así sabrás el retorno real de las redes.
+**En la primera reunión, pregunta siempre: "¿Cómo me conociste?"** y anótalo en [plantillas/registro-clientes.csv](plantillas/registro-clientes.csv).
 
 ### Métricas de vanidad (no te obsesiones)
-- "Me gusta" por sí solos.
-- Número total de seguidores (importa más *quiénes* son: de tu zona y en edad de vender).
+- Los "me gusta" por sí solos.
+- El número total de seguidores (importa más *quiénes* son).
 
 ### Registro semanal (domingo, 20 min)
-Usa [plantillas/registro-metricas.csv](plantillas/registro-metricas.csv). Por cada video anota: fecha, pilar, formato, gancho, views, % retención, envíos, guardados, comentarios, seguidores ganados, consultas generadas.
+Usa [plantillas/registro-metricas.csv](plantillas/registro-metricas.csv). Recuerda: el 96% del alcance llega en los 10 primeros días, así que anota cada vídeo a los 7–10 días.
 
 ---
 
-## 7. Reglas de decisión (qué hacer con los datos)
+## 7. Reglas de decisión
 
 | Si pasa esto… | Haz esto |
 |---------------|----------|
-| Muchas views pero pocas visitas al perfil | El contenido es muy genérico: agrega tu opinión/cara y un CTA de seguimiento ("sígueme para la parte 2") |
-| Pocas views y baja retención en los primeros 3 s | Cambia el gancho (el tema puede estar bien). Prueba el mismo tema con otro gancho como Reel de prueba |
-| Buena retención pero pocos envíos | Hazlo más útil para un tercero: "mándaselo a…" y temas de situaciones (herencias, papás, separaciones) |
-| Muchas visitas al perfil pero pocos seguidores | Revisa bio, fijados y destacadas (el perfil no convence) |
-| Muchos seguidores pero pocas consultas | Faltan CTAs y contenido de confianza (casos, testimonios); activa "comenta VENDER" |
-| Consultas pero no se convierten en reuniones | Revisa tiempo de respuesta y guiones de DM; ofrece tasación referencial concreta |
-| Un video explota | Haz 3 variaciones del mismo tema en las 2 semanas siguientes (parte 2, otro ángulo, versión carrusel) |
-| Un formato no funciona en 4 intentos | Descártalo por ahora |
+| Muchas visualizaciones pero pocas visitas al perfil | Contenido demasiado genérico: más opinión propia, tu cara y un "sígueme para la parte 2" |
+| Pocas visualizaciones y la gente se va en los 3 primeros segundos | Cambia el gancho (el tema puede estar bien). Prueba 2 ganchos como Reel de prueba |
+| Buena retención pero pocos envíos | Hazlo más útil para un tercero: "mándaselo a…" y temas de situaciones (herencias, padres, separaciones) |
+| Muchas visitas al perfil pero pocos seguidores | Revisa bio, fijados y destacadas |
+| Muchos seguidores pero pocas consultas | Faltan CTAs y contenido de confianza; activa "comenta VENDER" |
+| Consultas que no acaban en reunión | Revisa el tiempo de respuesta y los mensajes; ofrece una valoración concreta |
+| Muchas visualizaciones desde el extranjero | Más vídeos 🌍, guía en inglés y destacada "English" |
+| Un vídeo explota | 3 variaciones del mismo tema en las 2 semanas siguientes (parte 2, otro ángulo, carrusel) |
+| Un formato no funciona en 4 intentos | Apárcalo por ahora |
 
 ---
 
 ## 8. Publicidad pagada (opcional, desde la semana 11)
 
-No pagues para promocionar contenido que no funcionó orgánicamente. La regla: **solo se promociona lo que ya demostró que funciona.**
+No pagues por promocionar lo que no funcionó de forma orgánica. **Solo se promociona lo que ya ha demostrado que funciona.**
 
-- **Qué promocionar:** tus 2–3 videos con mejor retención + el video de "comenta VENDER" o "tasación referencial".
-- **Segmentación:** radio de tu zona de trabajo, 35–65 años (dueños) y 25–45 (hijos/compradores).
+- **Qué promocionar:** tus 2–3 vídeos con mejor retención + el vídeo de "comenta VENDER" o "valoración gratuita".
+- **Segmentación local:** radio de tu zona de trabajo, 35–65 años (propietarios) y 25–45 (hijos/compradores).
+- **Segmentación internacional (si captas extranjeros):** Países Bajos, Reino Unido y Bélgica, con interés en España/Alicante/Costa Blanca, con el vídeo en inglés (o doblado).
 - **Objetivo de la campaña:** mensajes (WhatsApp/DM) o visitas al perfil, no "me gusta".
-- **Presupuesto de prueba:** un monto pequeño y fijo durante 7 días por video; compara costo por mensaje entre videos y deja solo el ganador.
-- **Medición:** cuántos mensajes → cuántas reuniones → cuántas captaciones.
+- **Presupuesto de prueba:** una cantidad pequeña y fija durante 7 días por vídeo; compara el coste por mensaje y quédate con el ganador.
+- **Medición:** mensajes → reuniones → encargos.
+- Recuerda la **etiqueta energética** en cualquier anuncio de una vivienda concreta.
